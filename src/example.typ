@@ -9,7 +9,7 @@
 )
 = Exercise #homeworkNumber.1
 
-+ Let $Phi$ be a finite set of formulas and let $psi$ be a formula. Then $ Phi models psi "iff" (and.big_(p in Psi) -> psi "is a tautology" $
++ Let $Phi$ be a finite set of formulas and let $psi$ be a formula. Then $ Phi models psi "iff" (and.big_(phi in Phi) phi) -> psi "is a tautology" $
 + #lorem(30)
 
 = Exercise #homeworkNumber.2
