@@ -15,6 +15,6 @@ hand-ins. You can find an example pdf [here](./src/example.pdf).
   author: "Peter Pan",
   course: "Artificial Intelligence",
   semester: "Spring Semester 2025",
-  homeworkNumber: homeworkNumber
+  homeworkNumber: 1
 )
 ```
