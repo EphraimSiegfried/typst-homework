@@ -1,7 +1,7 @@
 # Typst Template for Homework Hand-ins
 
 This is a [Typst](https://github.com/typst/typst) template designed for homework
-hand-ins. You can find an example [here](./src/example.pdf).
+hand-ins. You can find an example pdf [here](./src/example.pdf).
 
 ## How to Use
 
